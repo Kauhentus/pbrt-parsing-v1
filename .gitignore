@@ -1,0 +1,4 @@
+package-lock.json
+/node_modules/*
+/out_scene/*
+/out_scene_bistro/*

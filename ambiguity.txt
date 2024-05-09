@@ -1,0 +1,490 @@
+[
+    [
+        {
+            "type": "statement",
+            "kind": "Sampler",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Integrator",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer maxdepth",
+                    "values": [
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Film",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer yresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "integer xresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "string filename",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Scale",
+            "params": [
+                -1,
+                1,
+                1
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "LookAt",
+            "params": [
+                730.19196,
+                130.06535,
+                168.48814,
+                729.2307,
+                130.03535,
+                168.21251,
+                0,
+                1,
+                0
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Camera",
+            "params": [
+                "perspective"
+            ],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "float fov",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "WorldBegin",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "lights-no-windowglass.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "materials.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "geometry.pbrt"
+            ],
+            "attributes": []
+        }
+    ],
+    [
+        {
+            "type": "statement",
+            "kind": "Sampler",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Integrator",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer maxdepth",
+                    "values": [
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Film",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer yresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "integer xresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "string filename",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Scale",
+            "params": [
+                -1,
+                1,
+                1
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "LookAt",
+            "params": [
+                730.19196,
+                130.06535,
+                168.48814,
+                729.2307,
+                130.03535,
+                168.21251,
+                0,
+                1,
+                0
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Camera",
+            "params": [
+                "perspective"
+            ],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "float fov",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "WorldBegin",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "lights-no-windowglass.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "materials.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "geometry.pbrt"
+            ],
+            "attributes": []
+        }
+    ],
+    [
+        {
+            "type": "statement",
+            "kind": "Sampler",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Integrator",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer maxdepth",
+                    "values": [
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Film",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer yresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "integer xresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "string filename",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Scale",
+            "params": [
+                -1,
+                1,
+                1
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "LookAt",
+            "params": [
+                730.19196,
+                130.06535,
+                168.48814,
+                729.2307,
+                130.03535,
+                168.21251,
+                0,
+                1,
+                0
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Camera",
+            "params": [
+                "perspective"
+            ],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "float fov",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "WorldBegin",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "lights-no-windowglass.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "materials.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "geometry.pbrt"
+            ],
+            "attributes": []
+        }
+    ],
+    [
+        {
+            "type": "statement",
+            "kind": "Sampler",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Integrator",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer maxdepth",
+                    "values": [
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Film",
+            "params": [],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "integer yresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "integer xresolution",
+                    "values": [
+                        null
+                    ]
+                },
+                {
+                    "type": "attribute",
+                    "name": "string filename",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "Scale",
+            "params": [
+                -1,
+                1,
+                1
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "LookAt",
+            "params": [
+                730.19196,
+                130.06535,
+                168.48814,
+                729.2307,
+                130.03535,
+                168.21251,
+                0,
+                1,
+                0
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Camera",
+            "params": [
+                "perspective"
+            ],
+            "attributes": [
+                {
+                    "type": "attribute",
+                    "name": "float fov",
+                    "values": [
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "statement",
+            "kind": "WorldBegin",
+            "params": [],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "lights-no-windowglass.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "materials.pbrt"
+            ],
+            "attributes": []
+        },
+        {
+            "type": "statement",
+            "kind": "Include",
+            "params": [
+                "geometry.pbrt"
+            ],
+            "attributes": []
+        }
+    ]
+]
